@@ -1,1 +1,1 @@
-echo "Prod"
+echo print "UAT deployment"
